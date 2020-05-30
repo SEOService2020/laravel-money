@@ -1,22 +1,26 @@
 {
-    "name": "cknow/laravel-money",
+    "name": "seoservice2020/laravel-money",
     "description": "Laravel Money",
     "keywords": [
         "laravel",
         "money",
         "currency"
     ],
-    "homepage": "https://github.com/cknow/laravel-money",
+    "homepage": "https://github.com/SEOService2020/laravel-money",
     "license": "MIT",
     "authors": [
         {
             "name": "Ricardo Gobbo de Souza",
             "email": "ricardogobbosouza@yahoo.com.br"
+        },
+        {
+            "name": "Sergey Pronin",
+            "email": "sergotail@mail.ru"
         }
     ],
     "support": {
-        "issues": "https://github.com/cknow/laravel-money/issues",
-        "source": "https://github.com/cknow/laravel-money"
+        "issues": "https://github.com/SEOService2020/laravel-money/issues",
+        "source": "https://github.com/SEOService2020/laravel-money"
     },
     "require": {
         "php": "^7.2.5",
